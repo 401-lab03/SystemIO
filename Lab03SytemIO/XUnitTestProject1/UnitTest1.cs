@@ -35,7 +35,8 @@ namespace XUnitTestProject1
         public void ListIsCreatedTest1()
         {
             string[] items = new string [];
-            File.WriteAllText(path, items)
+            File.WriteAllLines(path, items);
+            Assert.equals(../path, items)
         }
 
 
