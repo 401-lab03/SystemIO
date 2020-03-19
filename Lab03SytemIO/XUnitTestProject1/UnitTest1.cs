@@ -7,11 +7,14 @@ namespace XUnitTestProject1
     public class UnitTest1
     {
         [Fact]
-        public void ItemsAreAppendedTest1()
+        public void ListExistsTest1()
         {
             //string items = "bananas";
             //string blah = (method name)File.AppendAllLines("../../../list.txt", items)
             //Assert.IsTrue(list.txt.Includes(items));
+
+            string[] items = new string[] { "bananas" };
+            string[] listShows = Program.CreateAFile();
         }
 
         [Fact]

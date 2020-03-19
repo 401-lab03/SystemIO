@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Lab03SytemIO"
+    "\\Lab03SytemIO",
+    "\\Lab03SytemIO\\bin",
+    "\\XUnitTestProject1"
   ],
-  "SelectedNode": "\\Lab03SytemIO\\Program.cs",
+  "SelectedNode": "\\XUnitTestProject1\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }
