@@ -5,7 +5,9 @@ namespace Lab03SytemIO
 {
     public class Program
     {
-        static void Main()
+        public static string path = "../../../list.txt";
+
+        public static void Main()
         {
 
             Console.WriteLine("Welcome to your COVID grocery list!");           
@@ -21,6 +23,11 @@ namespace Lab03SytemIO
                 "banana",
                 "toilet paper"
             };
+
+            if (!File.Exists(path))
+            {
+                CreateAFile(lists);
+            }
 
             if (userInput == "1")
             {
@@ -50,12 +57,12 @@ namespace Lab03SytemIO
             }
         }
 
-        static void CreateAFile (string[] items)
+        public static string[] CreateAFile (string[] items)
         {
             string path = "../../../list.txt";
             File.WriteAllLines(path, items);
             Console.WriteLine(items);
-            //File.WriteAllText(path, "hi");
+            return items;
 
         }
 
