@@ -1,0 +1,11 @@
+C:\Users\areye\codefellows\labs\SystemIO\SystemIO\Lab03SytemIO\Lab03SytemIO\bin\Debug\netcoreapp3.1\Lab03SytemIO.exe
+C:\Users\areye\codefellows\labs\SystemIO\SystemIO\Lab03SytemIO\Lab03SytemIO\bin\Debug\netcoreapp3.1\Lab03SytemIO.deps.json
+C:\Users\areye\codefellows\labs\SystemIO\SystemIO\Lab03SytemIO\Lab03SytemIO\bin\Debug\netcoreapp3.1\Lab03SytemIO.runtimeconfig.json
+C:\Users\areye\codefellows\labs\SystemIO\SystemIO\Lab03SytemIO\Lab03SytemIO\bin\Debug\netcoreapp3.1\Lab03SytemIO.runtimeconfig.dev.json
+C:\Users\areye\codefellows\labs\SystemIO\SystemIO\Lab03SytemIO\Lab03SytemIO\bin\Debug\netcoreapp3.1\Lab03SytemIO.dll
+C:\Users\areye\codefellows\labs\SystemIO\SystemIO\Lab03SytemIO\Lab03SytemIO\bin\Debug\netcoreapp3.1\Lab03SytemIO.pdb
+C:\Users\areye\codefellows\labs\SystemIO\SystemIO\Lab03SytemIO\Lab03SytemIO\obj\Debug\netcoreapp3.1\Lab03SytemIO.csprojAssemblyReference.cache
+C:\Users\areye\codefellows\labs\SystemIO\SystemIO\Lab03SytemIO\Lab03SytemIO\obj\Debug\netcoreapp3.1\Lab03SytemIO.AssemblyInfoInputs.cache
+C:\Users\areye\codefellows\labs\SystemIO\SystemIO\Lab03SytemIO\Lab03SytemIO\obj\Debug\netcoreapp3.1\Lab03SytemIO.AssemblyInfo.cs
+C:\Users\areye\codefellows\labs\SystemIO\SystemIO\Lab03SytemIO\Lab03SytemIO\obj\Debug\netcoreapp3.1\Lab03SytemIO.dll
+C:\Users\areye\codefellows\labs\SystemIO\SystemIO\Lab03SytemIO\Lab03SytemIO\obj\Debug\netcoreapp3.1\Lab03SytemIO.pdb
