@@ -51,8 +51,8 @@ This is the end of the application.
 ---
 
 ### Change Log
-1.3: *Finished readme and summary comments* - 3/19/2020
-1.2: *Built and implemented all application methods and started unit testing.* - 3/19/2020
+1.3: *Finished readme and summary comments* - 3/19/2020  
+1.2: *Built and implemented all application methods and started unit testing.* - 3/19/2020  
 1.1: *Created the set up of adding the program file into the test file and structure out methods* - 3/18/2020
 
 
